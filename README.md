@@ -1,1 +1,1 @@
-# pushgateway
+# prometheus-pushgateway
